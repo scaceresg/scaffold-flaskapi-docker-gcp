@@ -1,4 +1,3 @@
-import uuid
 from flask import Flask, jsonify, request
 
 # Create flask app
